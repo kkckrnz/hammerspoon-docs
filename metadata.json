@@ -1,0 +1,6 @@
+{
+  "name": "Hammerspoon Docs & API Reference",
+  "description": "Interactive Hammerspoon API documentation, searchable module reference, configuration builder, and macOS automation simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
